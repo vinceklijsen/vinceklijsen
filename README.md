@@ -23,4 +23,4 @@ Before diving into my master's, I gained hands-on experience during my bachelor 
 I'm passionate about developing tools and solutions that make everyday tasks safer and more efficient. Currently, I am working on a sustainable wheelchair.
 
 ## ⚡ Fun fact
-I’m someone who likes to combine engineering with a creative twist—whether.
+I’m someone who likes to combine engineering with a creative twist.
